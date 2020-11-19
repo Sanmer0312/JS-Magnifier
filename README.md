@@ -2,7 +2,7 @@
 
 ## 原理
 
-同一张图片放在两个不同的盒子里，小图盒子里放尺寸较小的图，大图盒子加`overflow:hidden`属性，大图使用相对定位`position: relative`，大图偏移量对应小图盒子里的放大镜的移动距离，距离的算法看下面 **JS** 部分。
+同一张图片放在两个不同的盒子里，小图盒子里放尺寸较小的图，大图盒子加`overflow:hidden`属性，大图使用相对定位`position: relative`，大图偏移量对应小图盒子里的放大镜的移动距离，距离的算法看下面 **JS** 部分。[在线预览](https://sanmer0312.github.io/JS-Magnifier/)  [国内预览](http://sanmer0312.gitee.io/js-magnifier)
 
 ### HTML
 
